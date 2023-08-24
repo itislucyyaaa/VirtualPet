@@ -3,7 +3,7 @@ void setup(){
   size(1000,1000);
 }
 void draw(){
- fill(0,0,0);//color for tails
+fill(0,0,0);//color for tails
 ellipse(430,610,450,100);//tails
 fill(255,252,252);//white color
 ellipse(300,470,300,400);//body
